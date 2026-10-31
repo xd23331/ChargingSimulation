@@ -7,5 +7,5 @@
 
 系统要求：Windows 10 或 Windows 11，64 位。
 本发布包不包含项目源代码，也不要求接收方安装 GTK 4。
-
+项目源代码在Charge-Simulation-Test-Edition公开项目中
 如果 Windows 首次运行时显示安全提示，请确认文件来源后选择“仍要运行”。
